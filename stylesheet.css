@@ -1,0 +1,102 @@
+ /* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/smilies/smi-3/smi268.ani), url(https://cur.cursors-4u.net/smilies/smi-3/smi268.gif), auto !important;} /* End https://www.cursors-4u.com */
+
+h2{
+  font-family: optima, sans-serif;
+  font-size: 23px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px;
+  color: #ff8fab;
+  text-shadow: 1px 1px #ffc2d1;
+  }
+
+h3{
+  font-family: optima, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px;
+    text-align:center;
+   color: #ffc2d1;
+}
+
+h4{
+  font-family: optima, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px;
+  color: #ffc2d1;
+}
+
+p{
+  font-family: optima, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 500;
+  color:#3f3f3f;
+}
+
+img{
+  padding:10px;
+}
+
+a:link{
+color:#ffc8d7;
+}
+
+a:visited{
+  color:#ffc1d2;
+}
+
+a:hover{
+  color:#f4bba9;
+}
+
+li{
+  font-family: optima, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 700;
+  color: #ffc2d1
+}
+
+figcaption{
+  font-family: optima, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 500;
+  color:#3f3f3f;
+  text-align:center;
+}
+
+#box{
+ margin-left:20px;
+ margin-right:20px;
+ border-style:solid;
+ border-width:3px;
+ padding: 6px;
+ border-color:#fff8fa;
+ background-color: #fff8fa;
+ background-clip: content-box;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background-image: url("https://i.pinimg.com/564x/3e/3b/38/3e3b3880884ae5d673b2d4890762d30b.jpg");
+}
+
+.footer {
+  padding: 60px;
+  text-align: center;
+  background-image: url("https://i.pinimg.com/564x/3e/3b/38/3e3b3880884ae5d673b2d4890762d30b.jpg");
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+html{
+  background: url("https://i.pinimg.com/564x/ba/b8/7b/bab87b814b3a4409834ce6672f1788b0.jpg");
+  background-repeat: repeat;
+}
